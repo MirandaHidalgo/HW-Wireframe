@@ -1,0 +1,15 @@
+/*Homework 1 - Building a wireframe*/
+
+body {
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #666666;
+    background: #ccc;
+    text-align: center
+}
+
